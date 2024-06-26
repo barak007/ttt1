@@ -7,7 +7,6 @@ command = "npm run dev"
 framework = "vite"
 
 # Set immutable caching for static files, because they have fingerprinted filenames
-
 [[headers]]
 for = "/build/*"
 
